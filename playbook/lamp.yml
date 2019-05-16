@@ -10,8 +10,11 @@
     - httpd
     - git
     - mongodb
+<<<<<<< HEAD
     - php-twitter-git-config
     - python36&pip
+=======
+>>>>>>> c2d46b4c947e945d006396be1c0b328be4f32652
 
 
     
